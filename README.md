@@ -91,9 +91,19 @@ Smart-GETS/
 ## **Screenshots** 📸  
 *(Add screenshots later with Markdown)*  
 1. **Dashboard**:  
-   ![Dashboard](public/images/demo-dashboard.png)  
-2. **Mobile View**:  
-   ![Mobile](public/images/demo-mobile.png)  
+   ![Screenshot 2025-04-13 171621](https://github.com/user-attachments/assets/e2f61bb7-3435-444c-8f2d-7d07b0244a33)
+  
+2. **Home Page**:
+   ![Screenshot 2025-04-13 171731](https://github.com/user-attachments/assets/f08b5d81-baa4-4655-ab0c-d96077a03598)
+
+3. **Add Item**:
+   ![Screenshot 2025-04-13 171629](https://github.com/user-attachments/assets/b7682ad5-9420-4579-bf64-5a767a73816a)
+
+4. **Home Page 02**:
+   ![Screenshot 2025-04-13 171739](https://github.com/user-attachments/assets/8b548778-5b4b-42c9-96cb-32d2a0649509)
+
+
+
 
 ---
 
