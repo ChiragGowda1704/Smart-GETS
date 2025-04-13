@@ -1,0 +1,25 @@
+{
+  "name": "smart-gets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "start": "concurrently \"npm run dev\" \"python ../app.py\""
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1",
+    "mysql2": "^3.13.0"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

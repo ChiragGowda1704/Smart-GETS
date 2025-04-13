@@ -1,0 +1,90 @@
+/* Main container */
+.dashboard-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+/* Header Section */
+.dashboard-header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.dashboard-header h1 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #333;
+}
+
+.dashboard-header span {
+  color: #007bff;
+}
+
+.dashboard-header p {
+  font-size: 18px;
+  color: #666;
+  margin-top: 10px;
+}
+
+.header-image {
+  width: 80%;
+  max-width: 600px;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Features Grid */
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));  /* Adjusted for better spacing */
+  gap: 30px;  /* Increased gap between cards */
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+/* Feature Cards */
+.feature-card {
+  background: white;
+  padding: 25px;  /* More padding for a better look */
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+  border: 1px solid #ddd;
+}
+
+.feature-card:hover {
+  transform: scale(1.07);  /* Increased hover effect */
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.feature-card img {
+  width: 60px;  /* Adjusted size for consistency */
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.feature-card h2 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+  margin-top: 10px;
+}
+
+.feature-card p {
+  font-size: 16px;
+  color: #666;
+  margin-top: 8px;
+  line-height: 1.5;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .features-grid {
+    grid-template-columns: 1fr;  /* Single column on small screens */
+  }
+}
