@@ -116,7 +116,7 @@ Smart-GETS/
 ## **Contact** 📬  
 **Chirag Gowda**  
 📧 [chiragtsgowda2004@gmail.com](mailto:chiragtsgowda2004@gmail.com)  
-🔗 [GitHub Profile](www.linkedin.com/in/chiraggowda17)  
+🔗 [LinkedIn Profile](www.linkedin.com/in/chiraggowda17)  
 
 ---
 
