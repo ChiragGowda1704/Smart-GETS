@@ -22,10 +22,10 @@ A **web-based application** to track grocery expiry dates, reduce food waste, an
 ---
 
 ## **Technology Stack** 🧰  
-| **Frontend** | **Backend** | **Database** |  
+| **Frontend** | **Backend**| **Database**|  
 |--------------|------------|-------------|  
-| HTML5        | Node.js    | MySQL       |  
-| CSS3         | Express.js |             |  
+| HTML5        |  Flask     | MySQL       |  
+| CSS3         |            |             |
 | JavaScript   |            |             |  
 
 ---
