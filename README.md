@@ -1,14 +1,11 @@
-
-
-# **Smart Grocery Expiry Tracking System (Smart-GETS)** 🛒⏰  
-![Node.js](https://img.shields.io/badge/Node.js-16%2B-green)  
-![Express.js](https://img.shields.io/badge/Express.js-4.x-lightgrey)  
-![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)  
-![License](https://img.shields.io/badge/License-MIT-yellow)  
+# **Smart Grocery Expiry Tracking System (Smart-GETS)** 🛒⏰   
+![Flask](https://img.shields.io/badge/Flask-2.3-blue)
+![React](https://img.shields.io/badge/React-18.2-blue)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)   
 
 A **web-based application** to track grocery expiry dates, reduce food waste, and send timely notifications. Built with a responsive frontend and secure backend.  
 
-**Live Demo**: *[Add Vercel/Heroku link here]*  
+**Live Demo**:  
 
 ---
 
@@ -60,7 +57,7 @@ npm install
 
 ### **4. Run the Application**  
 ```bash
-node server.js
+python app.py
 ```
 Access at: `http://localhost:3000`  
 
@@ -71,8 +68,9 @@ Access at: `http://localhost:3000`
 Smart-GETS/
 ├── server.js               # Backend entry point
 ├── package.json            # Dependencies
+├── app.py                  # Backend application
 ├── database/               # SQL scripts
-│   └── schema.sql          
+│   └── schema.sql           
 ├── public/                 # Static assets
 │   ├── css/                # Stylesheets
 │   ├── js/                 # Client-side scripts
@@ -88,8 +86,7 @@ Smart-GETS/
 
 ---
 
-## **Screenshots** 📸  
-*(Add screenshots later with Markdown)*  
+## **Screenshots** 📸    
 1. **Dashboard**:  
    ![Screenshot 2025-04-13 171621](https://github.com/user-attachments/assets/e2f61bb7-3435-444c-8f2d-7d07b0244a33)
   
